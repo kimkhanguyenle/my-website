@@ -1,0 +1,1 @@
+This is my own website I do my own website including all my information and implementing what I have learn to make this. I also using AI to help me to choose a layout and design my UI, addtionally AI also have me to customize effect for my website using Java Script. It my first own work collaborate with AI to make this.
