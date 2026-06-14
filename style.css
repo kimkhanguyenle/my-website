@@ -211,10 +211,10 @@ h2 {
   font-size: 1.75rem; color: var(--gold);
 }
 .stat-label { font-size: 0.8rem; color: var(--text-muted); margin-top: 0.1rem; }
-[data-theme="dark"] .stat-num { color: #a8c8e8; }
-[data-theme="dark"] .stat-label { color: #b0c8e0; }
-[data-theme="dark"] .hero-role { color: #b0c8e0; }
-[data-theme="dark"] .hero-stats { border-top-color: rgba(168,200,232,0.25); }
+[data-theme="dark"] .stat-num { color: #ffffff; }
+[data-theme="dark"] .stat-label { color: #d0e4f7; }
+[data-theme="dark"] .hero-role { color: #d0e4f7; }
+[data-theme="dark"] .hero-stats { border-top-color: rgba(255,255,255,0.2); }
 
 /* ── ABOUT ── */
 #about { border-top: 1px solid var(--border); }
